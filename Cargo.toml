@@ -2,5 +2,7 @@
 
 members = [
     "main-app",
-    "chess-ai"
-, "chess"]
+    "chess-ai",
+    "chess", 
+    "sdl2-app"
+    ]
