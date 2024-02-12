@@ -1,0 +1,11 @@
+/home/niooi/Projects/Rust/schoolwork/CHESSAIAHAHAHA/target/debug/build/sdl2-sys-7f2a7ea12e3a10bd/out/build/CMakeFiles/sdl_headers_copy.dir
+/home/niooi/Projects/Rust/schoolwork/CHESSAIAHAHAHA/target/debug/build/sdl2-sys-7f2a7ea12e3a10bd/out/build/CMakeFiles/SDL2main.dir
+/home/niooi/Projects/Rust/schoolwork/CHESSAIAHAHAHA/target/debug/build/sdl2-sys-7f2a7ea12e3a10bd/out/build/CMakeFiles/SDL2.dir
+/home/niooi/Projects/Rust/schoolwork/CHESSAIAHAHAHA/target/debug/build/sdl2-sys-7f2a7ea12e3a10bd/out/build/CMakeFiles/SDL2_test.dir
+/home/niooi/Projects/Rust/schoolwork/CHESSAIAHAHAHA/target/debug/build/sdl2-sys-7f2a7ea12e3a10bd/out/build/CMakeFiles/uninstall.dir
+/home/niooi/Projects/Rust/schoolwork/CHESSAIAHAHAHA/target/debug/build/sdl2-sys-7f2a7ea12e3a10bd/out/build/CMakeFiles/edit_cache.dir
+/home/niooi/Projects/Rust/schoolwork/CHESSAIAHAHAHA/target/debug/build/sdl2-sys-7f2a7ea12e3a10bd/out/build/CMakeFiles/rebuild_cache.dir
+/home/niooi/Projects/Rust/schoolwork/CHESSAIAHAHAHA/target/debug/build/sdl2-sys-7f2a7ea12e3a10bd/out/build/CMakeFiles/list_install_components.dir
+/home/niooi/Projects/Rust/schoolwork/CHESSAIAHAHAHA/target/debug/build/sdl2-sys-7f2a7ea12e3a10bd/out/build/CMakeFiles/install.dir
+/home/niooi/Projects/Rust/schoolwork/CHESSAIAHAHAHA/target/debug/build/sdl2-sys-7f2a7ea12e3a10bd/out/build/CMakeFiles/install/local.dir
+/home/niooi/Projects/Rust/schoolwork/CHESSAIAHAHAHA/target/debug/build/sdl2-sys-7f2a7ea12e3a10bd/out/build/CMakeFiles/install/strip.dir
