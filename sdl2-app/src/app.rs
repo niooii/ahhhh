@@ -49,7 +49,7 @@ impl<'a> App<'a> {
         let canvas = window.into_canvas().accelerated().build().map_err(|e| e.to_string())?;
 
         let event_pump = Arc::new(Mutex::new(sdl2_instance.event_pump()?));
-        let texture_creator = canvas.texture_creator();
+        let texture_creator =               canvas.texture_creator();
         let texture_map = Arc::new(Mutex::new(HashMap::new()));
 
         let canvas = Arc::new(Mutex::new(canvas));
