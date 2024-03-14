@@ -1,9 +1,10 @@
 use chess::board::BitBoard;
-use sdl2_app::{app::{App, AppState}, render_components::{RenderComponent, RenderComponentBuilder}};
 
 fn main() -> Result<(), String> {
 
-    let bb = BitBoard::new();
+    let mut bb = BitBoard::default();
+    bb.make_move(4);
+    bb.make_move(5);
     bb.print();
 
     Ok(())

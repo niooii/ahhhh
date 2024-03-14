@@ -1,15 +1,10 @@
+#[derive(Default)]
 pub struct BitBoard {
     board: u64
 }
 
 impl BitBoard {
 
-    pub fn new() -> Self {
-        Self {
-            board: 0
-        }
-    }
-    
     pub fn print(&self) {
         for rank in 0..8 {
             for file in 0..8 {
@@ -19,6 +14,10 @@ impl BitBoard {
             }
             println!();
         }
+    }
+
+    pub fn make_move(&mut self, board_idx: u16) {
+        self.board |= 0b1 << board_idx;
     }
 
 }
